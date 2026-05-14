@@ -41,13 +41,13 @@ export const db = await mysql.createPool({
   */
   password: "1234Senai1234",
 
-  /*
+  /*mnmn
     LACUNA 4:
     Informe o nome do banco de dados que será utilizado no projeto.
 
     Orientações:
     - O nome deve ser o mesmo banco criado no script SQL.
-    - O valor deve ser uma string.
+    - O valor deve ser uma string.grgrggrs
   */
   database: "sistema_usuarios",
   /**
